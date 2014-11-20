@@ -1,0 +1,15 @@
+SMAP
+setProperties1_jsp.java
+JSP
+*S JSP
+*F
++ 0 setProperties1.jsp
+setProperties1.jsp
+*L
+5,12:44
+17:56,10
+18,2:66,3
+20,2:72
+22,2:74,3
+24,3:80
+*E
